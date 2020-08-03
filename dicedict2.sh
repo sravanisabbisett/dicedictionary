@@ -1,5 +1,6 @@
 #!/bin/bash 
 
+echo "first simulation"
 count=0
 count1=0
 valid=True
