@@ -1,6 +1,7 @@
 #!/bin/bash 
 
 echo "first simulation"
+echo "second simultion"
 count=0
 count1=0
 valid=True
