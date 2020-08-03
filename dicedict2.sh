@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-echo "first simulation"
+echo "first"
 echo "second simultion"
 count=0
 count1=0
